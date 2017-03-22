@@ -10,3 +10,10 @@ The final aims for this app is to create a positive circle between the childrenâ
 
 It is still unfinished yet.
 
+![Alt text](https://github.com/GuoyingLi95/quetzal/blob/master/p1.png "Screenshot_1")
+
+![Alt text](https://github.com/GuoyingLi95/quetzal/blob/master/p2.png "Screenshot_2")
+
+![Alt text](https://github.com/GuoyingLi95/quetzal/blob/master/p3.png "Screenshot_3")
+
+![Alt text](https://github.com/GuoyingLi95/quetzal/blob/master/p4.png "Screenshot_4")
