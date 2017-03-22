@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1.22"
+    android:background="@drawable/bgcolor">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="131dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/view"
+        android:weightSum="1">
+
+        <ImageView
+            android:src="@drawable/icon1"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:id="@+id/imageView9" />
+
+        <Button android:id="@+id/btnCapture"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@android:style/Widget.Button"
+            android:text="Photo" />
+
+        <Button android:id="@+id/btnCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Cancel"
+            style="@android:style/Widget.Button.Small" />
+
+    </LinearLayout>
+
+    <android.view.SurfaceView
+        android:id="@+id/preview"
+            android:layout_width="516dp"
+            android:layout_height="match_parent">
+        </android.view.SurfaceView>
+
+</LinearLayout>
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/layout1">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:src="@drawable/background"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/imageView3"
+            android:contentDescription=""
+            tools:ignore="ContentDescription"
+            android:adjustViewBounds="true" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="UselessParent">
+
+            <TextView
+                android:text="Joe's homework"
+                android:layout_width="286dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView11"
+                android:textSize="50sp"
+                android:textColor="@android:color/background_light"
+                android:background="@android:color/holo_orange_light"
+                android:textAlignment="center"
+                android:layout_marginRight="20dp"
+                android:layout_marginLeft="50dp" />
+
+            <Button
+                android:text="learn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/learn"
+                android:visibility="invisible" />
+
+            <Button
+                android:text="homework-1"
+                android:layout_width="286dp"
+                android:layout_height="wrap_content"
+                android:textSize="36sp"
+                android:textStyle="normal|bold"
+                android:textColor="@android:color/background_light"
+                android:background="@android:color/holo_orange_light"
+                style="@android:style/Widget.Button"
+                android:layout_gravity="center_horizontal"
+                android:id="@+id/Menu1" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView8" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView10" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</LinearLayout>

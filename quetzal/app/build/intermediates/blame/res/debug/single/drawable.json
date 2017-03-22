@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable/view3.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable/view3.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable/box.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable/box.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable/view2.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable/view2.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable/shape.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable/shape.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable/textview.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable/textview.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable/view1.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable/view1.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable/spinner.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable/spinner.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable/view.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable/view.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable/buttonshape.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable/buttonshape.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable/bgcolor.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable/bgcolor.xml"
+    }
+]

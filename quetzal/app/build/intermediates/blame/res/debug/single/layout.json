@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout/ambilwarna_dialog.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout/ambilwarna_dialog.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout/activity_menu.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout/fingerpaint.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout/fingerpaint.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout/activity_conversation.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout/activity_conversation.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout/learn.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout/learn.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout/activity_question.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout/activity_question.xml"
+    }
+]

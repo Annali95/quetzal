@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/girl.jpg",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable-hdpi/girl.jpg"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background.jpeg",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable-hdpi/background.jpeg"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/undo_selector.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable-hdpi/undo_selector.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/boy.jpg",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/drawable-hdpi/boy.jpg"
+    }
+]

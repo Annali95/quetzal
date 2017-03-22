@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/color/view1_selector.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/color/view1_selector.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/color/view2_selector.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/color/view2_selector.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/color/view3_selector.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/color/view3_selector.xml"
+    }
+]

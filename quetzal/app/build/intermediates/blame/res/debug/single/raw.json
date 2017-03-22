@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/raw/success.mp3",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/raw/success.mp3"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/raw/fail.mp3",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/raw/fail.mp3"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/raw/start.wav",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/raw/start.wav"
+    }
+]

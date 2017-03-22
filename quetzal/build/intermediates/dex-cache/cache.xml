@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/liguoying/Downloads/PaintApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="035ce55a4dddbcd84fb71bc6e46d66f481c55206">
+        <dex dex="/Users/liguoying/Downloads/PaintApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8241c5d18c3d5cbeb0bb6d05ea406f059386b234/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguoying/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/liguoying/Downloads/PaintApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_0ad2adfe1a12b17d81adb756bd49fa3a03b1a497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liguoying/Downloads/PaintApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8c2b226765ee1d6b97bfb92c3ec25ad7c99396a">
+        <dex dex="/Users/liguoying/Downloads/PaintApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fd5f644257933b403b8c9456df6500e211954f1c/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout-land/activity_choose.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout-land/activity_choose.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout-land/activity_camera.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout-land/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout-land/activity_conversation.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout-land/activity_conversation.xml"
+    },
+    {
+        "merged": "/Users/liguoying/Downloads/PaintApp/app/build/intermediates/res/merged/debug/layout-land/fingerpaint.xml",
+        "source": "/Users/liguoying/Downloads/PaintApp/app/src/main/res/layout-land/fingerpaint.xml"
+    }
+]

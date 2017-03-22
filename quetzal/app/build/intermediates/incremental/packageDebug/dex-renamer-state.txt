@@ -1,0 +1,7 @@
+#Wed Mar 22 17:13:09 CDT 2017
+base.0=/Users/liguoying/Downloads/PaintApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8241c5d18c3d5cbeb0bb6d05ea406f059386b234
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/liguoying/Downloads/PaintApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fd5f644257933b403b8c9456df6500e211954f1c/classes.dex
+base.1=/Users/liguoying/Downloads/PaintApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fd5f644257933b403b8c9456df6500e211954f1c
+file.0=/Users/liguoying/Downloads/PaintApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8241c5d18c3d5cbeb0bb6d05ea406f059386b234/classes.dex
