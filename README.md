@@ -8,7 +8,6 @@ This app guide the children to solve math problem by themselves.
 
 The final aims for this app is to create a positive circle between the children’s learning activity at school. 
 
-It is still unfinished yet.
 
 ![Alt text](https://github.com/GuoyingLi95/quetzal/blob/master/p1.png "Screenshot_1")
 
